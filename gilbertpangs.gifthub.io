@@ -1,0 +1,50 @@
+<html>
+<head><title> ciee ultah </title>
+
+<body background="asd_11zon.jpg">
+
+<center>
+<marquee width="90%" direction="right" bgcolor="yellow">HAPPY BIRTHDAY STELLA WISH YOU ALL THE BEST AND GOD BLESS YOU </marquee>
+
+<P>
+<h1 style="color:white;">HAPPY BIRTHDAY STELLA WISH YOU ALL THE BEST MAAP BANG 
+WEBNYA JELEK
+MASI BELAJAR :D TAPI DI UMUR YANG BERTAMBAH SUPAYA LU 
+BISA TAMBAH DEWASA
+BANYAK DUIT MELIMPAH DI ULTAH YANG KE 21 , TETAP JADI 
+ORANG YANG CERIA 
+JANGAN BANYAK BETENYA DI KURANG KURANGIN NYARI MASALAH
+, MASALAH DATENG
+BUKAN DI CARI WKWKWK TETAP MENJADI SOBAT RECEH AING 
+, TETAP MENJADI SOBAT 
+PENDENGAR LAGU INDO AING :D POKOKNYA LANGGENG JUGA 
+HUBUNGANNYA JANGAN SIA
+SIA KAN PERJODOHAN AING WKWKWKWKWKWK GG ES CHILL WELL  
+BANG INTINYA </h1>
+
+
+
+<P>
+
+<img align="middle" 
+src="ptoo1.jpg" width="300" height="400" >
+<img align="middle" 
+src="pp.jpg" width="300" height="400" >
+<img align="middle" 
+src="ste.jpg" width="300" height="400" >
+<img align="middle" 
+src="kuy.jpg" width="300" height="400" >
+
+
+<P>
+
+
+<h1 style="color:white;"><q>Kamu tidak pernah terlalu tua untuk menetapkan tujuan lain atau untuk memimpikan impian baru.</q>
+</h1>
+
+<P>
+<a href="https://www.tiktok.com/@gilbertpangestu/video/7374478215294848262?is_from_webapp=1&sender_device=pc&web_id=7374477913409897985" target="_blank">
+	<button>ga tau bang mau pidio apa ga ada waktu </button>
+</center>
+</body>
+</html>
